@@ -1,0 +1,14 @@
+# Ignorar arquivos de compilação
+target/
+
+# Ignorar arquivos de configuração do Cargo
+Cargo.lock
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.rs.bk
+
+# Ignorar diretórios de IDEs
+.idea/
+.vscode/
